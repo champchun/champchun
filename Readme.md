@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neil Chen</h1>
 <h3 align="center">A senior algorithm engineer from Taiwan.</h3>
 
-- 🔭 I’m currently working on **ECG measurement & interpretation algorithm**
+- 🔭 I’m currently working on **ECG measurement & interpretation algorithm**.
 
-- 🌱 I’m currently learning **Clean Code, Pythonic**
+- 🌱 I’m currently learning **Clean Code, Pythonic, Design Patterns**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
